@@ -1,1 +1,7 @@
 # Professional-Statement
+
+As a student of cybersecurity actively looking for work, I am steadfastly dedicated to pursuing a profession founded on the fundamental principles of safety, moral behavior, and lifelong learning. I strive to implement the CIA Triad—Confidentiality, Integrity, and Availability—in every facet of my job because I recognize how important they are in protecting businesses assets.. I am committed to upholding the constantly changing laws and rules pertaining to cybersecurity, ensuring that I do comply with industry standards and regulations.
+
+Keeping up with the most recent developments in cybersecurity, including trends, threats, and best practices, is something I am enthusiastic about. I can address security concerns with a thorough grasp of both present and emerging hazards thanks to this continual education. My work is heavily influenced by ethical behavior; I approach every task with honesty, openness, and accountability, placing a high value on protecting sensitive data and earning the trust of the people and organizations I deal with.
+
+I approach problem-solving with excellent analytical and critical thinking abilities, which enable me to spot weaknesses and come up with workable answers. I can help create safe, resilient workplaces since I have a strong grasp of risk management. I am excited to apply my knowledge to real-world problems and help the organization secure its assets. I would remove the last sentence. I have a great work ethic and am dedicated to upholding the highest security standards.
